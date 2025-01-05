@@ -16,19 +16,19 @@ The **Namer App** generates pairs of random words, allows users to like their fa
    git clone <repository-url>
    ```
 2. Navigate to the project directory:
- ```bash
-  cd namer_app
-  ```
+   ```bash
+   cd namer_app
+   ```
 3. Install dependencies:
-  ```bash
-  flutter pub get
-  ```
+   ```bash
+   flutter pub get
+   ```
 4. Run the app:
    ```bash
    flutter run
    ```
 
-## ScreenShots
+## App Screenshots
 ### Home page
 <img width="354" alt="Screenshot 2025-01-05 at 1 51 56 PM" src="https://github.com/user-attachments/assets/f0737808-9472-4ac6-9daa-029e4118a8a6" />
 
