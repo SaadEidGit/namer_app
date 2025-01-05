@@ -26,4 +26,13 @@ The **Namer App** generates pairs of random words, allows users to like their fa
 4. Run the app:
    ```bash
    flutter run
-  ```
+   ```
+
+## ScreenShots
+### Home page
+<img width="354" alt="Screenshot 2025-01-05 at 1 51 56 PM" src="https://github.com/user-attachments/assets/f0737808-9472-4ac6-9daa-029e4118a8a6" />
+
+### Favorites page
+<img width="359" alt="Screenshot 2025-01-05 at 1 52 53 PM" src="https://github.com/user-attachments/assets/d942c9fc-a57e-4abd-b531-a7cf829927de" />
+
+
